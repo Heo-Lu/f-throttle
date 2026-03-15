@@ -1,0 +1,6 @@
+addSbtPlugin("com.dwijnand" % "sbt-dynver" % "3.0.0")
+addSbtPlugin("com.github.sbt" % "sbt-native-packager" % "1.11.1")
+addSbtPlugin("com.hanhuy.sbt" % "kotlin-plugin" % "2.0.0")
+addSbtPlugin("net.virtual-void" % "sbt-dependency-graph" % "0.9.2")
+addSbtPlugin("org.apache.pekko" % "pekko-grpc-sbt-plugin" % "1.1.1")
+addSbtPlugin("com.github.sbt" % "sbt-javaagent" % "0.1.8")
